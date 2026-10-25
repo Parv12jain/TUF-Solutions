@@ -6,18 +6,19 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **2** | 0 | 2 | 0 | `2026-10-25` |
+| **3** | 0 | 3 | 0 | `2026-10-25` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (2)
+### DSA (3)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0002 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0001 | [116. Find missing number](./DSA/General/find-missing-number) | [PY](./DSA/General/find-missing-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0002 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0003 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 
 ---
 
