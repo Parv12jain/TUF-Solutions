@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **9** | 0 | 9 | 0 | `2026-10-31` |
+| **10** | 0 | 10 | 0 | `2026-10-31` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (9)
+### DSA (10)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,10 +21,11 @@
 | 0003 | [83. Majority Element-I](./DSA/General/majority-element-i) | [PY](./DSA/General/majority-element-i/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
 | 0004 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
 | 0005 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [Solution-1](./DSA/Arrays/pascals-triangle-i/Solution-1.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0006 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0007 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0008 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0009 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0006 | [378. Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [PY](./DSA/Arrays/pascals-triangle-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0007 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0008 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0009 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0010 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 
 ---
 
