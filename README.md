@@ -6,29 +6,30 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **13** | 0 | 13 | 0 | `2026-11-01` |
+| **14** | 0 | 14 | 0 | `2026-11-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (13)
+### DSA (14)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [116. Find missing number](./DSA/General/find-missing-number) | [PY](./DSA/General/find-missing-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0002 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [PY](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0003 | [83. Majority Element-I](./DSA/General/majority-element-i) | [PY](./DSA/General/majority-element-i/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0004 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
-| 0005 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [Solution-1](./DSA/Arrays/pascals-triangle-i/Solution-1.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0006 | [378. Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [PY](./DSA/Arrays/pascals-triangle-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0007 | [945. Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [PY](./DSA/Arrays/pascals-triangle-iii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
-| 0008 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0009 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
-| 0010 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
-| 0011 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [PY](./DSA/Arrays/set-matrix-zeroes/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
-| 0012 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
-| 0013 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0001 | [21. 3 Sum](./DSA/General/3-sum) | [PY](./DSA/General/3-sum/solution.py) | ⚪ Unspecified | `General` | `2026-11-01` |
+| 0002 | [116. Find missing number](./DSA/General/find-missing-number) | [PY](./DSA/General/find-missing-number/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0003 | [706. Intersection of two sorted arrays](./DSA/Arrays/intersection-of-two-sorted-arrays) | [PY](./DSA/Arrays/intersection-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0004 | [83. Majority Element-I](./DSA/General/majority-element-i) | [PY](./DSA/General/majority-element-i/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0005 | [248. Move Zeros to End](./DSA/General/move-zeros-to-end) | [PY](./DSA/General/move-zeros-to-end/solution.py) | ⚪ Unspecified | `General` | `2026-10-25` |
+| 0006 | [161. Pascal's Triangle I](./DSA/Arrays/pascals-triangle-i) | [Solution-1](./DSA/Arrays/pascals-triangle-i/Solution-1.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0007 | [378. Pascal's Triangle II](./DSA/Arrays/pascals-triangle-ii) | [PY](./DSA/Arrays/pascals-triangle-ii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0008 | [945. Pascal's Triangle III](./DSA/Arrays/pascals-triangle-iii) | [PY](./DSA/Arrays/pascals-triangle-iii/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-31` |
+| 0009 | [107. Print the matrix in spiral manner](./DSA/Arrays/print-the-matrix-in-spiral-manner) | [PY](./DSA/Arrays/print-the-matrix-in-spiral-manner/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0010 | [375. Rearrange array elements by sign](./DSA/Arrays/rearrange-array-elements-by-sign) | [PY](./DSA/Arrays/rearrange-array-elements-by-sign/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-30` |
+| 0011 | [196. Remove duplicates from sorted array](./DSA/Arrays/remove-duplicates-from-sorted-array) | [PY](./DSA/Arrays/remove-duplicates-from-sorted-array/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
+| 0012 | [34. Set Matrix Zeroes](./DSA/Arrays/set-matrix-zeroes) | [PY](./DSA/Arrays/set-matrix-zeroes/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
+| 0013 | [1. Two Sum](./DSA/Arrays/two-sum) | [PY](./DSA/Arrays/two-sum/solution.py) | ⚪ Unspecified | `Arrays` | `2026-11-01` |
+| 0014 | [713. Union of two sorted arrays](./DSA/Arrays/union-of-two-sorted-arrays) | [PY](./DSA/Arrays/union-of-two-sorted-arrays/solution.py) | ⚪ Unspecified | `Arrays` | `2026-10-25` |
 
 ---
 
